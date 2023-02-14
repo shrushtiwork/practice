@@ -1,6 +1,6 @@
 package hm;
 
-public class hello {
+public class hello2 {
 	
 	public void sum()
 	{
